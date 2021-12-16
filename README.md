@@ -28,7 +28,7 @@
 <div> 
 
   
-###  💻 Minhas Redes
+###  👀 Minhas Redes
   
 <div>
   
