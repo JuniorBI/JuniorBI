@@ -1,7 +1,5 @@
 # Hey! Bem vindo ao meu GIT.
 
-🏬 Sou um estudante de programação💻 e analise de dados📈.
-
 ❤️ Sou um apaixonado por tecnologia, musica, games, livros e todo tipo de esporte.
 
 ##
